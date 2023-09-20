@@ -1,2 +1,2 @@
 # hello-word..
-readme
+eyyyy! Jomari M. [BSIT-4] [BLK2]
